@@ -2,3 +2,6 @@ this is the first file being added to the repository from local working tree.
 
 
 ---- after first push, modifying the file
+
+
+--- changing this file from main branch and committing it before the branch commits a new change. lets see what happens
