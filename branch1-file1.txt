@@ -4,3 +4,5 @@ creating some random text
 changing this from branch2 to create a merge conflict, but can't create I think.
 what am trying to do is now...
 change something from branch2 -- don't merge it until one commit from main branch happens.
+
+-- changing from branch4
